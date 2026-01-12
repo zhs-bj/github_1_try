@@ -3,6 +3,7 @@
 
 *MBTI: ENFJ*
 ![logo](https://youke3.picui.cn/s1/2026/01/12/69647bde77076.jpg)
+
 *图片是先去tinypng网站上压缩，压缩好保存之后，上传到图床，获得图片链接，然后贴在这里*
 
 
