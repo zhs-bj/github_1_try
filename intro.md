@@ -4,7 +4,10 @@
 *MBTI: ENFJ*
 ![logo](https://youke3.picui.cn/s1/2026/01/12/69647bde77076.jpg)
 *图片是先去tinypng网站上压缩，压缩好保存之后，上传到图床，获得图片链接，然后贴在这里*
+
+
 [仓库链接](https://github.com/zhs-bj/github_1_try)
+
 [尝试部署的wiki链接](http://localhost/Sample%20Markdown%20document.md)但是localhost应该换设备打不开
 
 c++代码块（拿来玩一下代码的显示部分）
